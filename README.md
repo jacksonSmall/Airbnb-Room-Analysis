@@ -3,3 +3,4 @@ ISC4242 Group 4 Project repo
 
 Jadan Colon
 Andres Machado
+Jackson Small
