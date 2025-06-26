@@ -1,6 +1,7 @@
-# ISC4242G4
-ISC4242 Group 4 Project repo
+# Collaborative Project for Data Science II at UCF
 
+Authors:
 Jadan Colon
 Andres Machado
 Jackson Small
+Bret Geyer
